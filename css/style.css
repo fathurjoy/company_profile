@@ -1,0 +1,52 @@
+.visi{
+    background-color: #014998;
+}
+.visi h2{
+    color: #ffffff;
+}
+
+.banner{
+    height: 90vh;
+    background-image: url(../img/bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+}
+.banner h1{
+    padding-top: 0px;
+    padding-left: 20px;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+
+
+@media (max-height:800px) {
+    
+}
+.footer{
+    position: static;
+    background: #014998;
+    
+}
+.contact{
+    background-color: #014998;
+}
+.logobw img {
+    width: 200px;
+    height: 196px;
+    vertical-align: middle;
+}
+.contact-data{
+    background-color: #014998 ;
+    color: #ffffff;
+    font-size: 25px;
+}

@@ -1,0 +1,21 @@
+body {
+    height: max-content;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 20px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #dddddd;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #014998;
+  }
+  #product {
+    background-color: white;
+  }
+  .nama {
+    text-align: center;
+  }

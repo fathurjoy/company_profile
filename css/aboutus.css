@@ -1,0 +1,63 @@
+.Gkanan{
+    position: absolute;
+    width: 380px;
+    height: 700px;
+    left: 0px;
+    top: 0px;
+}
+.aboutus-kiri{
+    color: #fff;
+    width: 215px;
+}
+.aboutus-kiri h4{
+    margin-left: 55px;
+}
+.task{
+    color: #fff;
+}
+.border{
+    width: 598px;
+    height: 100px;
+    left: 440px;
+    top: 3074px;
+    background: #0550A3;
+    text-align: center;
+}
+.task{
+    margin-top: 100px;
+    text-justify: auto;
+}
+.herman{
+    margin-right: 1004px;
+}
+.aboutus-kanan{
+    color: #FFFFFF;
+    width: 260px;
+    left: 1027px;
+    top: 2972px;
+}
+.aboutus-kanan h4{
+    margin-right: 60px;
+}
+
+@media (max-width: 881px){
+    .Gkanan {
+        width: 350px;
+    }
+    .task{
+        margin-top: 50px;
+        width: 100px;
+    }
+}
+
+@media (max-width: 768px){
+    .Gkanan {
+        width: 200px;
+    }
+}
+
+@media (max-width: 491px){
+    .Gkanan {
+        width: 100px;
+    }
+}
